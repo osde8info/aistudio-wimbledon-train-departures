@@ -1,5 +1,5 @@
 {
-  "name": "Wimbledon Live Departures",
-  "description": "Real-time departure board for Wimbledon Station, covering National Rail, District Line, and Tramlink services with platform-specific tracking.",
+  "name": "Surrey Station Live Departures",
+  "description": "Real-time departure board for major Surrey rail hubs including Wimbledon, Guildford, Woking, and Epsom, powered by Gemini live data grounding.",
   "requestFramePermissions": []
 }

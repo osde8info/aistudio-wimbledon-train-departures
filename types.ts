@@ -5,6 +5,11 @@ export enum TransportType {
   TRAM = 'TRAM'
 }
 
+export interface Station {
+  name: string;
+  code?: string;
+}
+
 export interface Departure {
   id: string;
   destination: string;
@@ -17,6 +22,7 @@ export interface Departure {
 }
 
 export interface StationData {
+  stationName: string;
   lastUpdated: string;
   departures: Departure[];
   sources: { title: string; uri: string }[];
