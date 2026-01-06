@@ -1,0 +1,5 @@
+{
+  "name": "Wimbledon Live Departures",
+  "description": "Real-time departure board for Wimbledon Station, covering National Rail, District Line, and Tramlink services with platform-specific tracking.",
+  "requestFramePermissions": []
+}
